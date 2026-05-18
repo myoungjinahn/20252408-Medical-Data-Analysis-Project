@@ -106,6 +106,8 @@ ASOS는 일, 월, 연 단위 자료를 제공하며 기온, 습도, 강수, 바�
 
 ![Kaggle 대기오염·기상·호흡기 지표 상관관계 Heatmap](C:/Users/정부영/Downloads/kaggle_air_health_correlation_heatmap_2020_2025.png)
 
+모아보기: kaggle_global_air_health_visual_report.html
+
 이 예시 결과를 통해 최종 프로젝트에서도 `pm25`, `pm10`, `no2`, `temperature`, `humidity`, `season` 등을 독립 변수로 두고, `cold_cases` 또는 `respiratory_cases`를 종속 변수로 설정하는 구조가 적절하다는 점을 확인할 수 있다.
 
 ### 2-5. 전처리 방향
